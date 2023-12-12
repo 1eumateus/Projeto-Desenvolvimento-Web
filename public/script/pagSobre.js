@@ -2,4 +2,4 @@ import funcoes from './modulos/funcoes.mjs'
 //asdf
 funcoes.usuarioLogado()
 
-//ddddaaaa
+//ddddaaaaaaa11
